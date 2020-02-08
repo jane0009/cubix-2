@@ -1,6 +1,6 @@
 # fuck you, baltimore
 
-this is a rewrite of [luna's](https://github.com/lun-4) computercraft linux thing
+this is a rewrite of [luna's](https://github.com/lun-4) (private repo) computercraft linux thing
 hopefully it'll be better maybe
 
 ## installation
